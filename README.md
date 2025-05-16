@@ -44,12 +44,12 @@ The dataset contains 55,500 patient records with fields such as:
 ## 📄 Output
 
 A cleaned CSV with these columns:
-
+ 
 - Name_Cleaned
 - Medical_Condition_Cleaned
 - Medical_Condition_ML_Predicted
 
 ## 🔗 Author
 
-Created by Pushpa"# healthcare-data-cleansing-nlp" 
+Created by Rashi"# healthcare-data-cleansing-nlp" 
 "# healthcare-data-cleansing-nlp" 
